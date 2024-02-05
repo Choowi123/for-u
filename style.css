@@ -30,6 +30,7 @@ span {
 .button {
     width: 90px;
     background-color: #ff5252;
+    color: white;
     border-radius: 10px;
     border-color: transparent;
     padding: 10px;
